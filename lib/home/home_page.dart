@@ -141,7 +141,7 @@ class _IndexState extends State<Index> {
                     //     MaterialPageRoute(builder: (BuildContext context) {
                     //   return About();
                     // }));
-                    launch("https://github.com/fujianlian/GankFlutter/issues");
+                    launch("https://github.com/chenzulu123/douban_movie");
                   },
                 ),
                 // 分割线控件
