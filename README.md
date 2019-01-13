@@ -1,11 +1,10 @@
 # douban_movie
 
-A new Flutter project.
+使用Flutter基于豆瓣API开发的Flutter应用.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
+## 应用相关页面
+1、应用启动图片相关
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
