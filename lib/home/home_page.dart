@@ -108,6 +108,9 @@ class _IndexState extends State<Index> {
                   title: Text('用户反馈'),
                   trailing: Icon(Icons.feedback),
                   contentPadding: EdgeInsets.only(right: 50, left: 20),
+                  onTap: (){
+                    launch('https://github.com/chenzulu123/douban_movie/issues');
+                  },
                 ),
                 ListTile(
                   title: Text('系统设置'),

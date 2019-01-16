@@ -14,7 +14,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="douban_movie"
+        android:label="豆瓣电影"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

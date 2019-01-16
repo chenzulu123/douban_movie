@@ -50,7 +50,7 @@ class _MovieDetailState extends State<MovieDetail> {
           title: Text(widget.title),
           centerTitle: true,
         ),
-        body: Container(
+        body: SingleChildScrollView(
           child: Column(
             children: <Widget>[
               Container(
