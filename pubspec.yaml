@@ -22,6 +22,7 @@ dependencies:
   dio: ^1.0.9
   url_launcher: ^4.0.3
   flutter_webview_plugin: "^0.3.0+2"
+  flutter_spinkit: "^3.1.0"
 
 dev_dependencies:
   flutter_test:

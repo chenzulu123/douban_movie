@@ -85,6 +85,7 @@ class _MovieListState extends State<MovieList>
           itemCount: mlist.length,
           itemBuilder: (BuildContext context, int i) {
             var mitem = mlist[i];
+            // print(mitem);
             var castsArr = mitem['casts'];
             var casts = [];
             for (var i = 0; i < castsArr.length; i++) {
